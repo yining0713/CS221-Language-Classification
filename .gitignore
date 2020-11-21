@@ -1,0 +1,15 @@
+# ignore OX files
+.DS_Store
+
+# ignore audio_data
+data/audio/*
+data/feature/*
+
+# Delete python package
+*.pyc
+
+#ignore output
+*nohup.out
+
+# ignore log files
+log/*
